@@ -18,36 +18,36 @@ The primary objective of this project is to develop a robust ANN that predicts w
       o	Final model achieved a test accuracy of 77.27%, demonstrating balanced predictions with precision and recall improvements.
     	
 **Results**
-  •	Final Model Performance:
+  1.	Final Model Performance:
       o	Accuracy: 77.27%
       o	True Negative Rate: 85%
       o	True Positive Rate: 34%
       o	False Positive Rate: 14%
       o	False Negative Rate: 21%
-  •	Significant predictors of diabetes include glucose levels, BMI, and age, as identified through correlation analysis.
+  2.	Significant predictors of diabetes include glucose levels, BMI, and age, as identified through correlation analysis.
   
 **Key Features of the Project**
-  •	Data Cleaning and Preprocessing: Ensured dataset integrity by addressing missing values and balancing features.
-  •	Advanced Model Optimization: Used techniques like batch normalization and dropout for improved model robustness.
-  •	Comprehensive Evaluation: Balanced evaluation metrics across diabetic and non-diabetic predictions.
+  1.	Data Cleaning and Preprocessing: Ensured dataset integrity by addressing missing values and balancing features.
+  2.	Advanced Model Optimization: Used techniques like batch normalization and dropout for improved model robustness.
+  3.	Comprehensive Evaluation: Balanced evaluation metrics across diabetic and non-diabetic predictions.
   
 **Dependencies**
 Ensure you have the following libraries installed to run the project:
-  •	Python 3.7 or later
-  •	TensorFlow
-  •	Keras
-  •	Pandas
-  •	NumPy
-  •	Matplotlib
-  •	Scikit-learn
+  1.	Python 3.7 or later
+  2.	TensorFlow
+  3.	Keras
+  4.	Pandas
+  5.	NumPy
+  6.	Matplotlib
+  7.	Scikit-learn
   
 **Dataset**
 The dataset used in this project can be accessed from [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database). Please download the data and place it in the appropriate directory before running the code.
 
 **Ideas for Further Research**
-  •	Feature Engineering: Introduce new features or interactions to improve predictive accuracy.
-  •	Ensemble Models: Explore ensemble methods such as stacking or boosting to enhance performance.
-  •	Longitudinal Data: Incorporate temporal data to track disease progression over time.
+  1.	Feature Engineering: Introduce new features or interactions to improve predictive accuracy.
+  2.	Ensemble Models: Explore ensemble methods such as stacking or boosting to enhance performance.
+  3.	Longitudinal Data: Incorporate temporal data to track disease progression over time.
   
 **Concrete Recommendations for Implementation**
   1.	Deploy the ANN model as a decision-support tool for healthcare professionals.
