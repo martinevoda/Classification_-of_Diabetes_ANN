@@ -1,4 +1,4 @@
-# Classification_of_Diabetes_ANN
+# Diabetes Prediction with ANN
 This project leverages an Artificial Neural Network (ANN) to predict diabetes diagnoses using a dataset provided by [National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)](https://www.niddk.nih.gov/)
 . The model demonstrates how machine learning can effectively support early detection and management of diabetes, a chronic condition with significant health implications.
 
